@@ -4,7 +4,7 @@ import urllib.request
 import json
 
 REPLY_ENDPOINT_URL = "https://api.line.me/v2/bot/message/reply"
-ACCESSTOKEN = 'YKYtWEePrN2e5IYH0bXRQghFLqCjY9oXG0Z+t97jhFntX4+xBM4M5wxxRHmjlJaW7fGM4XPHt/Ax431ATpEv2FF3OivRjPMl65CV8okrGEpNKEAPQZlPy83gtBqKEcxHqQdCoE0rChDfwqVaGWHLoAdB04t89/1O/w1cDnyilFU='
+ACCESSTOKEN = ''
 HEADER = {
     'Content-Type': 'application/json',
     'Authorization': 'Bearer ' + ACCESSTOKEN
